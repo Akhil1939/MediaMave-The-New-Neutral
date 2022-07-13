@@ -1,2 +1,2 @@
-# MediaMave-The-New-Neutral
+# MediaMave : The-New-Neutral
 B.E. mini project
